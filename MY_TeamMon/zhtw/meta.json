@@ -1,7 +1,7 @@
 {
-  "name": "只拿劍",
+  "name": "data",
   "author": "拿劍用",
-  "version": "20200109",
+  "version": "",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
